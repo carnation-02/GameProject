@@ -7,6 +7,8 @@ link video demo: https://www.youtube.com/watch?v=5KB5ku_mSUg
 game demo: https://inckungg.github.io/Ronnakrit-EN843200-unity/UnfortunateTown/WebBuild/
 
 #
+Han Ka Kao -- OOP Final Project
+
 I'm to be responsible for the programming in main,home,and receipt page,design ui of the app.
 
 video demo: https://youtu.be/XIXb_pbFwN0
