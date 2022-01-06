@@ -4,6 +4,8 @@ To be in charge of user research, generate feature ideas and concept validate, d
 
 Video demo app: https://drive.google.com/file/d/1-XjUvTTUfrouz3PPEItER0kQ4dvTrMZv/view?usp=sharing
 
+Presentation Slide: https://www.canva.com/design/DAE0qdp1BZM/HknagrZfmQFfJ9kw_nt80g/view?utm_content=DAE0qdp1BZM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
 #
 Unfortunate town -- Final Game Team Project (1/2021)
 
