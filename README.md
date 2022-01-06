@@ -1,6 +1,6 @@
 Tutor Hub -- UX/UI Final Group Project for Academic Year 2021 First Semester (Special Instructor: Phijarana Rattanathikun from Pruxus design)
 
-To be in charge of user research, generate feature ideas and concept validate, design tutor's time scheduel page, giving opininon/ideas/analyze of the project with team project.
+To be in charge of user research, generate feature ideas and concept validate, design tutor's time scheduel page, giving opininon/ideas/analyze of the project with teammate.
 
 Video demo app: https://drive.google.com/file/d/1-XjUvTTUfrouz3PPEItER0kQ4dvTrMZv/view?usp=sharing
 
